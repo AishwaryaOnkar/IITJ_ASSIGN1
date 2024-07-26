@@ -1,6 +1,6 @@
 ```markdown
 
-# Author: YASH RATNAPARKHI (g23ai2109)
+# Author: AISHWARYA SALUNKHE (G23AI2031)
 
 
 # Docker Application Deployment
@@ -103,7 +103,7 @@ Build the Docker image with the following command:
 
 ```bash
 
-sudo docker build -t g23ai_2109_assignment .
+sudo docker build -t g23ai_2031_assignment .
 
 ```
 
@@ -113,7 +113,7 @@ Run the Docker container with the following command:
 
 ```bash
 
-sudo docker run -p 8080:80 my-php-app g23ai_2109_assignment
+sudo docker run -p 8080:80 my-php-app g23ai_2031_assignment
 
 ```
 
