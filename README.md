@@ -123,16 +123,3 @@ Open a web browser and navigate to `http://localhost:8080` to see the PHP applic
 
 
 
-### Reference images
-
-1. When the user fills the data
-![alt text](web-app-form-data.png)
-
-
-2. User Named IITJ User , BTECH, IIT JODHPUR is added.
-
-![alt text](alert-1.png)
-
-2. After the user Fills the data, the record is updated to the database and the user is visible in records.
-![alt text](webapp-form-submission.png)
-
